@@ -3,7 +3,9 @@
 Q&A (Question and Answer) forum web application inspired by platforms like Stack Overflow. Built using the modern Next.js framework, it enables users to ask questions, post answers, and engage in knowledge sharing in a minimal and distraction-free environment.
 
 Team Details
+Team Name : Team 2824
 Member 1 
+
 Name: Tushar Patoliya
 Email:tusharpatodiya65@gamil.com
 Phone no.:9328440767
